@@ -127,3 +127,4 @@ dist
 **/.idea/*
 .yarnrc.yml
 build
+Jenkinsfile
